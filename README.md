@@ -2,8 +2,6 @@
 
 A modern desktop application built with **CustomTkinter** that supports **25+ conversion categories**, **real-time currency conversion**, **favorites management**, **conversion history tracking**, **analytics insights**, and customizable application settings through a clean and intuitive user interface.
 
----
-
 ## Screenshots
 
 ### Converter Page
@@ -21,8 +19,6 @@ A modern desktop application built with **CustomTkinter** that supports **25+ co
 ### Settings
 
 ![Settings](screenshots/settings.png)
-
----
 
 ## Project Layout
 
@@ -67,8 +63,6 @@ Universal Unit Converter/
 └── LICENSE
 ```
 
----
-
 ## Quickstart
 
 ### 1. Create and Activate a Virtual Environment
@@ -101,8 +95,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
----
-
 ## Features
 
 * 25+ conversion categories.
@@ -117,8 +109,6 @@ python main.py
 * CSV export support.
 * Modern desktop interface powered by CustomTkinter.
 * Modular architecture with clear separation of UI and business logic.
-
----
 
 ## Supported Categories
 
@@ -150,8 +140,6 @@ python main.py
 * Radiation
 * Currency Conversion
 
----
-
 ## Architecture
 
 ### Conversion Engine
@@ -182,8 +170,6 @@ Handles application preferences such as theme selection, startup page, and decim
 
 Built with CustomTkinter using a multi-page dashboard architecture.
 
----
-
 ## Technologies Used
 
 * Python 3.13
@@ -193,8 +179,6 @@ Built with CustomTkinter using a multi-page dashboard architecture.
 * Dataclasses
 * pathlib
 
----
-
 ## Future Improvements
 
 * Additional conversion categories.
@@ -203,16 +187,6 @@ Built with CustomTkinter using a multi-page dashboard architecture.
 * Multiple export formats.
 * Improved accessibility options.
 * Offline currency conversion fallback.
-
----
-
-## Author
-
-**Karmendra B. Srivastava**
-
-Built as a desktop application project to provide a fast, modern, and extensible conversion experience.
-
----
 
 ## License
 
