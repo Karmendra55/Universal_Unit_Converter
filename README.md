@@ -12,7 +12,7 @@ A modern desktop application built with **CustomTkinter** that supports **25+ co
 
 ### Currency Converter
 
-![Currency](screenshots/currency.png)
+![Currency](screenshots/conversion.png)
 
 ### Analytics Dashboard
 
