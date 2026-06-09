@@ -1,0 +1,51 @@
+# Python
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+
+.venv/
+venv/
+env/
+
+# IDEs
+
+.vscode/
+.idea/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Build Artifacts
+
+build/
+dist/
+*.spec
+
+# Testing
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Application Data
+
+data/history.json
+data/favorites.json
+data/settings.json
+data/currency_cache.json
+data/currency_favorites.json
+data/currency_abbr.json
+
+# Exports
+
+exports/*.csv
+
+# Logs
+
+*.log
